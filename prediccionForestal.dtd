@@ -1,0 +1,28 @@
+
+  <!ELEMENT Proyecto (reservaNatural+)>
+  <!ELEMENT reservaNatural (Nombre, Provincia, Zona+)>
+  <!ATTLIST reservaNatural Provincia CDATA #PCDATA> 
+
+  <!ELEMENT Nombre (#PCDATA)>
+  <!ELEMENT Provincia (#PCDATA)>
+  <!ELEMENT Zona (Datos)>
+  <!ATTLIST Zona Municipio CDATA #PCDATA> 
+
+  <!ELEMENT Datos (Clima, Tierra)>
+  <!ELEMENT Clima (Atmosfera)>
+  <!ELEMENT Atmosfera (Temperatura, Precipitaciones, Vientos, Nubes)>
+  <!ELEMENT Temperatura (#PCDATA)>
+  <!ELEMENT Precipitaciones (Tipo, velocidad, Direccion, Cantidad)>
+  <!ELEMENT Tipo (#PCDATA)>
+  <!ELEMENT velocidad (#PCDATA)>
+  <!ELEMENT Direccion (#PCDATA)>
+  <!ELEMENT Cantidad (#PCDATA)>
+  <!ELEMENT Vientos (velocidad, Direccion)>
+  <!ELEMENT velocidad (#PCDATA)>
+  <!ELEMENT Direccion (#PCDATA)>
+  <!ELEMENT Nubes (Masa)>
+  <!ELEMENT Masa (#PCDATA)>
+  <!ELEMENT Tierra (Humedad, Consistencia, VegetacionSeca)>
+  <!ELEMENT Humedad (#PCDATA)>
+  <!ELEMENT Consistencia (#PCDATA)>
+  <!ELEMENT VegetacionSeca (#PCDATA)>

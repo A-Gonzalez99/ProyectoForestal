@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Proyecto SYSTEM "prediccionForestal.dtd">
+
+<Proyecto>
+    <reservaNatural Provincia="Santa Cruz de Tenerife">
+        <Nombre>Las Lagunetas</Nombre>
+            <Zona Municipio="Candelaria">
+                <Datos>
+                        <Clima>
+                            <Atmosfera> 
+                                <Temperatura>30</Temperatura>
+                                <Precipitaciones>
+                                    <Tipo>Lluvia</Tipo>
+                                    <velocidad>8</velocidad>
+                                    <Direccion>45,0,1</Direccion>
+                                    <Cantidad>200</Cantidad>
+                                </Precipitaciones>
+
+                                <Vientos>
+                                    <velocidad>3</velocidad>
+                                    <Direccion>90,0,21</Direccion>
+                                </Vientos>
+
+                                <Nubes>
+                                    <Masa>389</Masa>
+                                </Nubes>
+
+                            </Atmosfera>
+                        </Clima>
+
+                        <Tierra>
+                            <Humedad>16</Humedad>
+                            <Consistencia>60</Consistencia>
+                            <VegetacionSeca>12</VegetacionSeca>
+                        </Tierra>
+                </Datos>
+            </Zona>
+
+            <Zona Municipio="El Rosario">
+                <Datos>
+                        <Clima>
+                            <Atmosfera> 
+                                <Temperatura>30</Temperatura>
+                                <Precipitaciones>
+                                    <Tipo>Lluvia</Tipo>
+                                    <velocidad>8</velocidad>
+                                    <Direccion>45,0,1</Direccion>
+                                    <Cantidad>200</Cantidad>
+                                </Precipitaciones>
+
+                                <Vientos>
+                                    <velocidad>3</velocidad>
+                                    <Direccion>90,0,21</Direccion>
+                                </Vientos>
+
+                                <Nubes>
+                                    <Masa>389</Masa>
+                                </Nubes>
+
+                            </Atmosfera>
+                        </Clima>
+
+                        <Tierra>
+                            <Humedad>16</Humedad>
+                            <Consistencia>60</Consistencia>
+                            <VegetacionSeca>12</VegetacionSeca>
+                        </Tierra>
+                </Datos>
+            </Zona>    
+    </reservaNatural>
+
+    <reservaNatural Provincia="Las Palmas">
+        <Nombre>Tamadaba</Nombre>
+            <Zona Municipio="Artenara">
+                <Datos>
+                        <Clima>
+                            <Atmosfera> 
+                                <Temperatura>30</Temperatura>
+                                <Precipitaciones>
+                                    <Tipo>Lluvia</Tipo>
+                                    <velocidad>8</velocidad>
+                                    <Direccion>45,0,1</Direccion>
+                                    <Cantidad>200</Cantidad>
+                                </Precipitaciones>
+
+                                <Vientos>
+                                    <velocidad>3</velocidad>
+                                    <Direccion>90,0,21</Direccion>
+                                </Vientos>
+
+                                <Nubes>
+                                    <Masa>389</Masa>
+                                </Nubes>
+
+                            </Atmosfera>
+                        </Clima>
+
+                        <Tierra>
+                            <Humedad>16</Humedad>
+                            <Consistencia>60</Consistencia>
+                            <VegetacionSeca>12</VegetacionSeca>
+                        </Tierra>
+                </Datos>
+            </Zona>
+
+            <Zona Municipio="Agaete">
+                <Datos>
+                        <Clima>
+                            <Atmosfera> 
+                                <Temperatura>30</Temperatura>
+                                <Precipitaciones>
+                                    <Tipo>Lluvia</Tipo>
+                                    <velocidad>8</velocidad>
+                                    <Direccion>45,0,1</Direccion>
+                                    <Cantidad>200</Cantidad>
+                                </Precipitaciones>
+
+                                <Vientos>
+                                    <velocidad>3</velocidad>
+                                    <Direccion>90,0,21</Direccion>
+                                </Vientos>
+
+                                <Nubes>
+                                    <Masa>389</Masa>
+                                </Nubes>
+
+                            </Atmosfera>
+                        </Clima>
+
+                        <Tierra>
+                            <Humedad>16</Humedad>
+                            <Consistencia>60</Consistencia>
+                            <VegetacionSeca>12</VegetacionSeca>
+                        </Tierra>
+                </Datos>
+            </Zona>    
+    </reservaNatural>
+</Proyecto>
