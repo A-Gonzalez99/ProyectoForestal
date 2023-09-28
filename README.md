@@ -14,13 +14,13 @@ The Green Shield is a forest fire prevention project that is carried out in coll
 
 ## Acknowledgments
 * Thanks to my DAM teachers
-* .XML Documentation https://www.mclibre.org/consultar/xml/lecciones/xml-dtd.html
-* Climate documentation https://flexbooks.ck12.org/cbook/ck-12-conceptos-de-ciencias-de-la-tierra-grados-6-8-en-espanol/section/8.14/primary/lesson/recopilar-datos-del-tiempo/
+* - [.XML Documentation](https://www.mclibre.org/consultar/xml/lecciones/xml-dtd.html)
+* - [Climate Documentation](https://flexbooks.ck12.org/cbook/ck-12-conceptos-de-ciencias-de-la-tierra-grados-6-8-en-espanol/section/8.14/primary/lesson/recopilar-datos-del-tiempo/)
+
 
 ## Authors
-Alejandro Javier Castellano González
-000@gmail.com
+- Alejandro Javier Castellano González
+- 000@gmail.com
 
 ## Template
-The template used for the README is from PurpleBooth
-https://github.com/PurpleBooth/a-good-readme-template
+The template used for the README is from - [PurpleBooth](https://github.com/PurpleBooth/a-good-readme-template)
